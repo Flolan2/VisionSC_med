@@ -1,0 +1,6 @@
+Principal_Component,Hand Movement MED_Level,Hand Movement MED_Coefficient,Hand Movement MED_P_Value,Hand Movement MED_P_Value_Formatted,Hand Movement MED_CI_Lower,Hand Movement MED_CI_Upper,Bonferroni_Corrected_Alpha,Significant_After_Bonferroni,Hand Movement MED_Percentage_Change,Data_Points_Analyzed
+PC1,ON,-0.512,0.0003088180463014175,3.09e-04,-0.79,-0.234,0.01,Yes,,1005
+PC2,ON,0.788,1.4680781869419013e-10,1.47e-10,0.547,1.029,0.01,Yes,,1005
+PC3,ON,-0.009,0.907683138713182,0.908,-0.168,0.15,0.01,No,,1005
+PC4,ON,-0.087,0.20248336449902227,0.202,-0.221,0.047,0.01,No,,1005
+PC5,ON,-0.095,0.16040966866877338,0.160,-0.228,0.038,0.01,No,,1005

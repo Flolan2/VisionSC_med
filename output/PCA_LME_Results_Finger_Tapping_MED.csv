@@ -1,0 +1,6 @@
+Principal_Component,Finger Tapping MED_Level,Finger Tapping MED_Coefficient,Finger Tapping MED_P_Value,Finger Tapping MED_P_Value_Formatted,Finger Tapping MED_CI_Lower,Finger Tapping MED_CI_Upper,Bonferroni_Corrected_Alpha,Significant_After_Bonferroni,Finger Tapping MED_Percentage_Change,Data_Points_Analyzed
+PC1,ON,0.593,1.9954257786029177e-07,2.00e-07,0.37,0.817,0.01,Yes,,1258
+PC2,ON,-0.448,7.231022274124298e-05,7.23e-05,-0.669,-0.227,0.01,Yes,,1258
+PC3,ON,-0.311,1.5957213557256724e-05,1.60e-05,-0.453,-0.17,0.01,Yes,,1258
+PC4,ON,-0.224,0.00046194043826813916,4.62e-04,-0.349,-0.098,0.01,Yes,,1258
+PC5,ON,-0.034,0.5711074266419873,0.571,-0.153,0.084,0.01,No,,1258
